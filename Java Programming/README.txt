@@ -1,1 +1,1 @@
-
+Here is a collection of all of the projects I have done in Java! I first learned Java at Fort Collins High School in Fort Collins, Colorado where I took AP Computer Science A. At Colorado College I have grown my Java skills in Computer Science 1 and Computer Science 2. I continue to learn more and more as I work on projects and gain more programming experiences from a variety of projects and experiences.
